@@ -1,0 +1,28 @@
+_repo: Sosialismi-ja-individualismi_47573
+contributor:
+  translator:
+    agent_name: Vehkamäki, J. H.
+    gutenberg_agent_id: '44380'
+    url: http://www.gutenberg.org/2009/agents/44380
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2014-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47573'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Sosialismi ja individualismi
+url: http://www.gutenberg.org/ebooks/47573
