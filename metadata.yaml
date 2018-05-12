@@ -1,9 +1,13 @@
 _repo: Sosialismi-ja-individualismi_47573
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Vehkamäki, J. H.
     gutenberg_agent_id: '44380'
     url: http://www.gutenberg.org/2009/agents/44380
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -16,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47573#Sosialismi-ja-individualismi
 gutenberg_issued: '2014-12-07'
 gutenberg_type: Text
 identifiers:
